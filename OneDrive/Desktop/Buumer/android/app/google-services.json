@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867038185833",
+    "project_id": "buumer-f8cb7",
+    "storage_bucket": "buumer-f8cb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867038185833:android:e43ca65f98283949d815f8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG-_MwVEx8DYi4qTjxUUlqSPOFXRVGE_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
